@@ -1,12 +1,22 @@
-# 소소하고 확실한 행복을 담은 현대인의 멘탈 케어 다이어리 SODA🍀
+# 현대인의 멘탈 케어 다이어리 SODA🍀
+![1](https://github.com/user-attachments/assets/7fda93f0-f2d7-4fd3-8b6b-48bc0f75d953)
 
-<!--
+* 배포 URL :
+* Test ID :
+* Test PW :
 
-**Here are some ideas to get you started:**
+## 프로젝트 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- SODA(소다)는 삶이 지치고 힘든 사람들의 스트레스를 해소하고 소소하지만 확실한 행복을 기록하는 현대인의 멘탈케어 다이어리입니다.
+- 사용자는 오늘의 일기를 작성하면 AI가 사용자 맞춤형 코멘트를 달아줍니다.
+- '오늘의 기분전환' 탭을 통해 작성한 일기를 바탕으로 기분전환을 할 수 있는 활동들을 추천받을 수 있습니다.
+- 일기를 쓰거나 자신이 쓴 댓글이 채택되면 포인트가 쌓이며, 쌓인 포인트로 기부도 가능합니다.
+
+
+## 팀원 구성
+
+<div align="center">
+
+| **김정주** | **이예림** | **오승민** | **오현우** | **곽현민** | **류동현** |
+| :------: |  :------: | :------: | :------: | :------: | :------: |
+| [<img src="" height=150 width=150> <br/> @](https://github.com/KimJJRoSY) |  [<img src="" height=150 width=150> <br/> @](https://github.com/yerimi00) | 
