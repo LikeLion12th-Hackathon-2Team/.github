@@ -31,17 +31,8 @@
 - 서비스 배포 환경 : 
 - 디자인 : [Figma](https://www.figma.com/design/cVcFM9sAudq5GgkZmKy9cP/2024-%EC%A4%91%EC%95%99%ED%95%B4%EC%BB%A4%ED%86%A4%5B%EC%86%8C%EB%8B%A4%5D?node-id=42-3&t=n99vWUJC0qUFUwLS-1)
   
-<br>
 
 
-
-### 브랜치 전략
-
-- Git-flow 전략을 기반으로 main, develop 브랜치와 feature 보조 브랜치를 운용했습니다.
-- main, develop, Feat 브랜치로 나누어 개발을 하였습니다.
-    - **main** 브랜치는 배포 단계에서만 사용하는 브랜치입니다.
-    - **develop** 브랜치는 개발 단계에서 git-flow의 master 역할을 하는 브랜치입니다.
-    - **Feat** 브랜치는 기능 단위로 독립적인 개발 환경을 위하여 사용하고 merge 후 각 브랜치를 삭제해주었습니다.
 
 <br>
 
